@@ -1,0 +1,7 @@
+flask
+pypdf
+python-docx
+openpyxl
+werkzeug
+gunicorn
+waitress
